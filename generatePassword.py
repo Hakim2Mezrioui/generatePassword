@@ -1,3 +1,9 @@
+"""
+Author: Mezrioui Hakim
+Created at: March 2023
+Description: A simple application for generating random passwords using Python's 'random' package and Tkinter GUI
+"""
+
 from tkinter import *
 import string
 import random as rd
